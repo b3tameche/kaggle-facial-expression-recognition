@@ -50,3 +50,5 @@ Google Colab-მა GPU-ზე threshold დამადო 23 ეპოქა�
 
 # 6. Conclusion
 საბოლოოდ, შემრჩა წინა მოდელის 62.7473 Accuracy Testset-ზე. Wandb-ზე რეპორტი UI-დან დავაგენერირე. Train/Validation loss-ები და accuracy-ები notebook-შივე დავტოვე, ყველა run-სთვის ქვემოთ მაქვს და-plot-ილი.
+
+Report: https://wandb.ai/b3tameche-free-university-of-tbilisi-/Facial%20Expression%20Recognition/reports/Final-Report--VmlldzoxMzEzODI5Mg
